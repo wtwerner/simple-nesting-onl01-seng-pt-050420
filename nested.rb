@@ -21,6 +21,7 @@ end
 
 def alan_kay_is_known_for
 	# What combination of keys would you use to return the value of the :known_for key of :alan_kay?
+	programmer_hash[:grace_hopper][:known_for]
 	
 	programmer_hash = 
  		{
